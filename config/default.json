@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://micah_cg:Rickyricardo400!@omniosconnector.nxkzg.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
