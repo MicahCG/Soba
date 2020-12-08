@@ -15,7 +15,7 @@ export const Landing = ({ isAuthenticated }) => {
           <h1 className="x-large">Soba</h1>
           
           <p className="lead">
-            where everybody eats.
+            [insert catchy bio]
           </p>
           <div className="buttons">
             <Link to="/register" className="btn btn-primary">Sign Up</Link>
